@@ -2,7 +2,7 @@
 
 A fully functional, production-ready audio player built for educational content, lectures, and podcasts.
 
-![Audio Player](https://via.placeholder.com/800x400?text=EduAudio+Player)
+[Audio Player](https://creative-sunflower-7aef04.netlify.app/)
 
 ## ✨ Features
 
